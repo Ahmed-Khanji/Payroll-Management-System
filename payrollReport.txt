@@ -1,0 +1,9 @@
+                              iDroid Solutions                               
+                             ------------------                                
+
+Employee Number  Employee Name   Last Name       Gross Salary    Deductions   Net Salary  
+-------------------------------------------------------------------------------------------
+252              Jane            Smith           $40950.00       $11904.47    $29045.53   
+1005             Mike            Brown           $47710.00       $14671.61    $33038.39   
+430988           Sarah           Wilson          $52000.00       $16427.68    $35572.32   
+21015            JAMES           HAROLD          $45760.00       $13873.40    $31886.60   
